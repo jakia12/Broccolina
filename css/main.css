@@ -157,7 +157,7 @@ body {
   font-weight: 400;
   font-size: 24px;
   color: #101228;
-  background-color: #fc427b;
+  background-color: #ee2e74;
 }
 
 a {
@@ -220,7 +220,7 @@ video {
 }
 
 .btn:hover {
-  background: #fc427b;
+  background: #ee2e74;
 }
 
 .btn_icon {
@@ -330,7 +330,7 @@ h2 {
 }
 
 .header__nav a:hover {
-  background: #fc427b;
+  background: #ee2e74;
 }
 
 .header__nav a:first-child {
@@ -695,7 +695,7 @@ h2 {
 
 .symbolism {
   padding: 40px 0;
-  background-color: #fc427b;
+  background-color: #ee2e74;
 }
 
 .symbolism__video {
@@ -1561,7 +1561,7 @@ h2 {
   position: relative;
   z-index: 10;
   margin-top: -32px;
-  background: #fc427b;
+  background: #ee2e74;
 }
 
 @media screen and (max-width: 1600px) {
