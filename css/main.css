@@ -216,6 +216,18 @@ video {
   color: #101228;
   flex-shrink: 0;
 }
+.contract {
+  background: #fff;
+  box-shadow: 4px 9px 0px #101228;
+  position: relative;
+  height: 74px;
+  border-radius: 38px;
+  padding: 10px 24px;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  width: 96%;
+}
 
 @media screen and (max-width: 1023.98px) {
   .btn {
@@ -681,6 +693,7 @@ h2 {
   font-size: 24px;
   line-height: 1.4;
   padding-bottom: 35px;
+  font-family: "Friends Zone";
 }
 @media screen and (max-width: 640px) {
   .about__text {
