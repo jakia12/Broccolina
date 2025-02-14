@@ -111,11 +111,11 @@ ul {
 }
 
 .token_right {
-  width: 32%;
+  width: 27%;
 }
 
 .token_right img {
-  width: 400px;
+  width: 320px;
 }
 blockquote,
 q {
@@ -757,7 +757,7 @@ h2 {
   border: 6px solid #101228;
   border-radius: 36px;
   display: flex;
-  padding: 60px;
+  padding: 38px;
   align-items: center;
 }
 
